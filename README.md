@@ -355,17 +355,6 @@ widget-co-breach-investigation/
 
 ---
 
-## 👥 Team
-
-**Team 09 - Cybersecurity Analytics Project**
-
-- **Pramath Yaji** - Lead Analyst
-- **Faraz Ahmed** - Forensic Investigator
-- **Phani Varun Munukuntla** - Security Researcher
-- **Bhuvantej Ramachandra Reddy** - Dashboard Developer
-
----
-
 ## 📜 License
 
 This project is for educational and portfolio purposes.
@@ -375,15 +364,6 @@ This project is for educational and portfolio purposes.
 ## 🤝 Contributing
 
 This is a completed academic project. However, feedback and suggestions are welcome! Feel free to open an issue or submit a pull request.
-
----
-
-## 📧 Contact
-
-For questions or collaboration opportunities:
-- **Email**: [your.email@example.com]
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Portfolio**: [Your Portfolio Website]
 
 ---
 
@@ -399,6 +379,6 @@ For questions or collaboration opportunities:
 
 **If you found this project helpful, please consider giving it a ⭐!**
 
-Made with 🔐 by Team 09
+Made with <3 by Team 09
 
 </div>
